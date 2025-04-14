@@ -6,7 +6,7 @@ When was the last time you ordered food online? And how long did it take to reac
 
 ![Image](https://www.machinehack.com/wp-content/uploads/2019/11/courier-delivery-service-illustration-3-02.jpg)
 
-In this hackathon, we are providing you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, our goal is to predict the online order delivery time based on the given factors.
+In this hackathon, we are providing you with data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data scientists, our goal is to predict the online order delivery time based on the given factors
 
 Analytics India Magazine and IMS Proschool bring to you ‘Predicting Predicting Food Delivery Time Hackathon’.
 
